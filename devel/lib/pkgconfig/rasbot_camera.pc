@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/rasbot/devel
+
+Name: rasbot_camera
+Description: Description of rasbot_camera
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
